@@ -1,0 +1,82 @@
+
+/**
+* @style topic-design
+*/
+.topic-design {
+  color: #c94e4b;
+}
+.topic-design a {
+  color: #c94e4b;
+}
+/**
+* @style topic-code
+*/
+.topic-code {
+  color: #4cc1be;
+}
+.topic-code a {
+  color: #4cc1be;
+}
+/**
+* @style topic-web
+*/
+.topic-web {
+  color: #49b293;
+}
+.topic-web a {
+  color: #49b293;
+}
+/**
+* @style topic-photography
+*/
+.topic-photography {
+  color: #8360a8;
+}
+.topic-photography a {
+  color: #8360a8;
+}
+/**
+* @style topic-game
+*/
+.topic-game {
+  color: #72BF40;
+}
+.topic-game a {
+  color: #72BF40;
+}
+/**
+* @style topic-computer
+*/
+.topic-computer {
+  color: #5d7dba;
+}
+.topic-computer a {
+  color: #5d7dba;
+}
+/**
+* @style topic-business
+*/
+.topic-business {
+  color: #f38844;
+}
+.topic-business a {
+  color: #f38844;
+}
+/**
+* @style topic-3d
+*/
+.topic-3d {
+  color: #f95858;
+}
+.topic-3d a {
+  color: #f95858;
+}
+/**
+* @style topic-music
+*/
+.topic-music {
+  color: #56a4ca;
+}
+.topic-music a {
+  color: #56a4ca;
+}

@@ -1,0 +1,53 @@
+.var-newsletter .masthead .one-col .inner-nested {
+  padding-bottom: 88px;
+}
+.var-newsletter .masthead .contents {
+  color: #666666;
+}
+.var-newsletter .masthead .contents a {
+  color: #666666;
+}
+.var-newsletter .masthead .webversion {
+  color: #71848f;
+}
+.var-newsletter .masthead .webversion a {
+  color: #71848f;
+}
+.var-newsletter .main-content .inner {
+  padding-bottom: 22px;
+  padding-top: 22px;
+}
+.var-newsletter .copy p,
+.var-newsletter .copy ol,
+.var-newsletter .copy ul {
+  Margin-bottom: 12px;
+}
+.var-newsletter .copy .heading {
+  Margin-bottom: 8px;
+}
+.var-newsletter .copy .smallcaps {
+  text-align: center;
+  Margin-bottom: 16px;
+}
+.var-newsletter .image {
+  padding-top: 16px;
+  padding-bottom: 32px;
+}
+@media screen and (max-width: 700px) {
+  .var-newsletter .masthead .inner-nested {
+    padding: 5px 0 44px !important;
+  }
+  .var-newsletter .main-content .h2 {
+    font-size: 16px !important;
+  }
+  .var-newsletter .logo {
+    background-image: url(../images/leaf@2x.png);
+    height: 17px;
+    background-position: center center;
+    background-size: 15px 17px;
+    background-repeat: no-repeat;
+  }
+  .var-newsletter .logo img {
+    display: none !important;
+  }
+}
